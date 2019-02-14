@@ -1,0 +1,13 @@
+{
+  "name": "@talko/client",
+  "version": "1.0.0",
+  "description": "Client classes for interfacing representative/customer components with talko server.",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
